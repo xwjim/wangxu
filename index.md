@@ -1,7 +1,5 @@
 # PERSONAL
 
-- Degree / Major
-- 135********
 - xwjim812@126.com
 - Github：https://github.com/xwjim
 
