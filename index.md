@@ -1,10 +1,9 @@
 # PERSONAL
 
-- HanamichiSakuragi/M/1990
 - Degree / Major
 - 135********
-- goodman@gmail.com
-- Github：http://github.com/geekcompany
+- xwjim812@126.com
+- Github：https://github.com/xwjim
 
 # SUMMARY
 
@@ -44,13 +43,11 @@ A highly motivated, professional individual with diverse management, team, and c
 
 # EDUCATION
 
-- Tsinghua - Master of Computer Science, 2012 ~ 2015
-- Tsinghua - Bachelor of Computer Science, 2008 ~ 2012
+- Phd Candidate, Harbin Institute of Technology - Computer Science and Technology, 2019 ~ the present
+- Master Degree, Harbin Institute of Technology - Information and Communication Engineering, 2017 ~ 2019
+- Bachelor Degree, Harbin Institute of Technology - Electronic Information Engineering, 2013 ~ 2017
 
 
 # SKILLS
 
-- Strong  coding  skills  of  PHP  with  3+  years  dev  experience 
-- Familiar  with  Java  with  2  years  dev  experience 
-- Good  working  understanding  and  experience  in  Linux  server-side  development 
-- Good  working  knowledge  of  the  Zookeeper,  Zabbix,  Yaf,  MySQL,  Redis,  MongoDB
+- Strong: Python, C++
