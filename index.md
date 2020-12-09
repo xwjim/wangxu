@@ -11,6 +11,7 @@
 - Master Degree, Harbin Institute of Technology - Information and Communication Engineering, 2017 ~ 2019
 - Bachelor Degree, Harbin Institute of Technology - Electronic Information Engineering, 2013 ~ 2017
 
+---
 
 # SKILLS
 
