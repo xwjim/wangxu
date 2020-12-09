@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+# PERSONAL
 
-You can use the [editor on GitHub](https://github.com/xwjim/wangxu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+- HanamichiSakuragi/M/1990
+- Degree / Major
+- 135********
+- goodman@gmail.com
+- Github：http://github.com/geekcompany
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# SUMMARY
 
-### Markdown
+A highly motivated, professional individual with diverse management, team, and cultural/social experience, serving in high stress results orientated settings. Supervised major events taking place in, and around Washington D.C. Performing duties directly related high level military operations. Served in The Old Guard, honoring our fallen in Arlington National Cemetery. Provided regular security details and planning of events for visiting foreign dignitaries and VIP's.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+# EXPERIENCE
 
-# Header 1
-## Header 2
-### Header 3
+## Job Title, Company Name （ 2012/09 ~ 2014/09 ）
+...
 
-- Bulleted
-- List
+### Accomplishments
 
-1. Numbered
-2. List
+- Ut enim ad minim veniam, quis nostrud exerc.
+- Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Ut enim ad minim veniam, quis nostrud exerc.
+- Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Ut enim ad minim veniam, quis nostrud exerc.
+- Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Job Title, Company Name （ 2010/03 ~ 2012/08 ）
+...
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Accomplishments
 
-### Jekyll Themes
+- Ut enim ad minim veniam, quis nostrud exerc.
+- Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Ut enim ad minim veniam, quis nostrud exerc.
+- Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Ut enim ad minim veniam, quis nostrud exerc.
+- Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xwjim/wangxu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+---
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# EDUCATION
+
+- Tsinghua - Master of Computer Science, 2012 ~ 2015
+- Tsinghua - Bachelor of Computer Science, 2008 ~ 2012
+
+
+# SKILLS
+
+- Strong  coding  skills  of  PHP  with  3+  years  dev  experience 
+- Familiar  with  Java  with  2  years  dev  experience 
+- Good  working  understanding  and  experience  in  Linux  server-side  development 
+- Good  working  knowledge  of  the  Zookeeper,  Zabbix,  Yaf,  MySQL,  Redis,  MongoDB
