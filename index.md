@@ -29,11 +29,11 @@
 ---
 # Publications
 
-* [Document-Level Relation Extraction with Reconstruction](https://arxiv.org/pdf/2012.11384.pdf) (AAAI 2021, Long Paper)
+* [Document-Level Relation Extraction with Reconstruction](https://arxiv.org/pdf/2012.11384.pdf) (**AAAI 2021, Long Paper**)
     
     Wang Xu, Kehai Chen and Tiejun Zhao
 
-* Discriminative Reasoning for Document-level Relation Extraction (Findings of ACL 2021, Long Paper)
+* Discriminative Reasoning for Document-level Relation Extraction (**Findings of ACL 2021**, Long Paper)
 
     Wang Xu, Kehai Chen and Tiejun Zhao
 
