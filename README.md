@@ -1,4 +1,2 @@
 # wangxu
-My resume
-
-Harbin Institute of Technology
+[My resume](https://xwjim.github.io/wangxu/)
